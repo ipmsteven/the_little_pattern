@@ -1,0 +1,9 @@
+small:
+  min: 100
+  max: 300
+medium:
+  min: 400
+  max: 600
+large:
+  min: 700
+  max: 800

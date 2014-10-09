@@ -1,0 +1,4 @@
+require 'sdm/rake/task'
+
+Sdm::Rake::Task.new(:sizedoesmatter)
+
